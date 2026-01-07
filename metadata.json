@@ -1,0 +1,8 @@
+{
+  "name": "Hackathon Tracker",
+  "description": "A comprehensive dashboard for mentors, teams, and admins to manage and track hackathon progress with a green and white professional theme. Features automated progress tracking, evaluation systems, and AI-powered pitch assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
